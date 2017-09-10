@@ -1,0 +1,4 @@
+Providing Configuration via XML - the whole chapter !!!
+AOP !!!
+JDBC TEMPLATE !
+Transactional environment !
